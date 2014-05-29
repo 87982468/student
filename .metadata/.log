@@ -1,0 +1,23 @@
+!SESSION 2014-04-20 10:24:44.702 -----------------------------------------------
+eclipse.buildId=I20100608-0911
+java.version=1.5.0_09
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.php.product -product org.eclipse.epp.package.php.product -product org.eclipse.epp.package.php.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.php.product -product org.eclipse.epp.package.php.product -data E:\work\Discuz\ci -product org.eclipse.epp.package.php.product
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-20 10:24:48.911
+!MESSAGE NLS unused message: disassembler_comma in: org.eclipse.wst.jsdt.internal.ui.JavaUIMessages
+!SESSION 2014-04-20 10:25:57.043 -----------------------------------------------
+eclipse.buildId=I20100608-0911
+java.version=1.5.0_09
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.php.product -product org.eclipse.epp.package.php.product -product org.eclipse.epp.package.php.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.php.product -product org.eclipse.epp.package.php.product -data E:\work\Discuz\ci -product org.eclipse.epp.package.php.product
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-20 10:26:00.737
+!MESSAGE NLS unused message: disassembler_comma in: org.eclipse.wst.jsdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-20 10:33:32.337
+!MESSAGE NLS unused message: disassembler_comma in: org.eclipse.jdt.internal.ui.JavaUIMessages
